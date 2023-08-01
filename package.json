@@ -1,0 +1,15 @@
+{
+  "name": "hunx-data-pipeliner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lorenz@hunx.ai",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "googleapis": "^123.0.0"
+  }
+}
